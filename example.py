@@ -1,7 +1,7 @@
 class ArithmeticPair:
     """
     Arithmetic operations on a given  pair of numbers
-
+ 
     Args:
         x:
             The first operand.
